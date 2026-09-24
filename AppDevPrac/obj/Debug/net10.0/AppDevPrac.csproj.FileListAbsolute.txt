@@ -1,0 +1,15 @@
+/home/mclor17/Documents/school-projects/ApplicationDevelopment-1/AppDevPrac/bin/Debug/net10.0/AppDevPrac
+/home/mclor17/Documents/school-projects/ApplicationDevelopment-1/AppDevPrac/bin/Debug/net10.0/AppDevPrac.deps.json
+/home/mclor17/Documents/school-projects/ApplicationDevelopment-1/AppDevPrac/bin/Debug/net10.0/AppDevPrac.runtimeconfig.json
+/home/mclor17/Documents/school-projects/ApplicationDevelopment-1/AppDevPrac/bin/Debug/net10.0/AppDevPrac.dll
+/home/mclor17/Documents/school-projects/ApplicationDevelopment-1/AppDevPrac/bin/Debug/net10.0/AppDevPrac.pdb
+/home/mclor17/Documents/school-projects/ApplicationDevelopment-1/AppDevPrac/obj/Debug/net10.0/AppDevPrac.GeneratedMSBuildEditorConfig.editorconfig
+/home/mclor17/Documents/school-projects/ApplicationDevelopment-1/AppDevPrac/obj/Debug/net10.0/AppDevPrac.AssemblyInfoInputs.cache
+/home/mclor17/Documents/school-projects/ApplicationDevelopment-1/AppDevPrac/obj/Debug/net10.0/AppDevPrac.AssemblyInfo.cs
+/home/mclor17/Documents/school-projects/ApplicationDevelopment-1/AppDevPrac/obj/Debug/net10.0/AppDevPrac.csproj.CoreCompileInputs.cache
+/home/mclor17/Documents/school-projects/ApplicationDevelopment-1/AppDevPrac/obj/Debug/net10.0/AppDevPrac.sourcelink.json
+/home/mclor17/Documents/school-projects/ApplicationDevelopment-1/AppDevPrac/obj/Debug/net10.0/AppDevPrac.dll
+/home/mclor17/Documents/school-projects/ApplicationDevelopment-1/AppDevPrac/obj/Debug/net10.0/refint/AppDevPrac.dll
+/home/mclor17/Documents/school-projects/ApplicationDevelopment-1/AppDevPrac/obj/Debug/net10.0/AppDevPrac.pdb
+/home/mclor17/Documents/school-projects/ApplicationDevelopment-1/AppDevPrac/obj/Debug/net10.0/AppDevPrac.genruntimeconfig.cache
+/home/mclor17/Documents/school-projects/ApplicationDevelopment-1/AppDevPrac/obj/Debug/net10.0/ref/AppDevPrac.dll
